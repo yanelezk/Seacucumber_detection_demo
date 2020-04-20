@@ -1,0 +1,2 @@
+# Seacucumber_detection_demo
+基于Faster R-CNN开发的水下海参检测系统平台，可与水下机器人建立远程连接
